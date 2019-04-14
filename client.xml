@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root version="3.0">
+	<reference>
+		<racedata> 
+			<centaur>
+				<name type="string">Centaur</name>
+				<text type="formattedtext">
+					<p>Roamers at heart, centaurs love open spaces and the freedom to travel. As much as they can, centaurs run. They race the wind, hooves thundering and tails streaming behind them.</p>
+					<h>Nature's Cavalry</h>
+					<p>Centaurs have humanoid upper bodies, displaying all the human variety of skin tones and features. In size, they are comparable to a human rider mounted on a horse, and they fill similar roles--as cavalry, messengers, outriders, and scouts.</p>
+					<p>Centuars' ears are slightly pointed, but their faces are more wide and square than those of elves. Below the waist, they have the bodies of horses, with coats tending toward brown shades (chestnut or bay) and darker tails.</p>
+					<h>Nature and Community</h>
+					<p>Centaurs have a strong sense of the interconnectedness of the natural world, and they celebrate family and community as microcosms of that greater connection.</p>
+					<p>The birth of a foal is always cause for festivities. At the same time, centaurs revere the traditions of the past, preserving old ways and keeping alive the legends of ancestral heroes. They feel a close kinship with wild animals, perhaps because of their own hybrid nature, and delight in the feeling of running alongside herds and packs of beasts.</p>
+					<h>Centaur Names</h>
+					<p>Centaurs' given names are passed down through family lines. The name given to a new foal is typically the name of the most recently deceased family member of the same gender, keeping alive the memory--and, the centaurs believe, some shard of the spirit--of the departed.</p>
+					<p>Centaurs rarely use family names, but wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottos, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.</p>
+					<h>Centaur Traits</h>
+					<p>The following traits are shared by player characters who are centaurs.</p>
+					<listlink>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.abilityscoreincrease">Ability Score Increase</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.age">Age</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.alignment">Alignment</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.size">Size</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.speed">Speed</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.charge">Charge</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.hooves">Hooves</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.equinebuild">Equine Build</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.survivor">Survivor</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.hybridnature">Hybrid Nature</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.centaur.traits.languages">Languages</link>
+					</listlink>
+				</text>
+				<traits>
+					<abilityscoreincrease>
+						<name type="string">Ability Score Increase</name>
+						<text type="formattedtext"><p>Your Strength score increases by 2, and your Wisdom score increases by 1.</p></text>
+					</abilityscoreincrease>
+					<age>
+						<name type="string">Age</name>
+						<text type="formattedtext"><p>Centaurs mature and age at about the same rate as humans.</p></text>
+					</age>
+					<alignment>
+						<name type="string">Alignment</name>
+						<text type="formattedtext"><p>Centaurs are inclined toward neutrality.</p></text>
+					</alignment>
+					<size>
+						<name type="string">Size</name>
+						<text type="formattedtext"><p>Your size is Medium, yet you tower over most other humanoids.</p></text>
+					</size>
+					<speed>
+						<name type="string">Speed</name>
+						<text type="formattedtext"><p>Your base walking speed is 40 feet.</p></text>
+					</speed>
+					<charge>
+						<name type="string">Charge</name>
+						<text type="formattedtext"><p>If you move at least 20 feet straight toward a target and then hit it with a melee weapon attack on the same turn, roll the weapon's damage dice twice and add them together. Once you use this ability, you can't use it again until you finish a short or long rest.</p></text>
+					</charge>
+					<hooves>
+						<name type="string">Hooves</name>
+						<text type="formattedtext"><p>Your hooves are natural melee weapons, with which you're proficient. If you hit with a hoof, the target takes bludgeoning damage equal to 1d6 + your Strength modifier.</p></text>
+					</hooves>
+					<equinebuild>
+						<name type="string">Equine Build</name>
+						<text type="formattedtext"><p>You count as one size larger when determining your carrying capacity and the weight you can push or drag.</p>
+						<p>In addition, any climb that requires hands and feet is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal extra foot.</p>
+						<p>Finally, a Medium or smaller creature can ride on your equine back if you allow it. In such a situation, you continue to act independently, not as a controlled mount.</p></text>
+					</equinebuild>
+					<survivor>
+						<name type="string">Survivor</name>
+						<text type="formattedtext"><p>You have proficiency in the Survival skill.</p></text>
+					</survivor>
+					<hybridnature>
+						<name type="string">Hybrid Nature</name>
+						<text type="formattedtext"><p>You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.</p></text>
+					</hybridnature>
+					<languages>
+						<name type="string">Languages</name>
+						<text type="formattedtext"><p>You can speak, read, and write Common and Sylvan.</p></text>
+					</languages>
+				</traits>
+			</centaur>
+			<elf>
+				<name type="string">Elf</name>
+				<text type="formattedtext">
+					<h>Elf Traits</h>
+					<p>Your elf character has the following racial traits.</p>
+					<listlink>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.abilityscoreincrease">Ability Score Increase</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.age">Age</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.alignment">Alignment</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.size">Size</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.speed">Speed</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.darkvision">Darkvision</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.keensenses">Keen Senses</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.feyancestry">Fey Ancestry</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.trance">Trance</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.languages">Languages</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.elf.traits.subrace">Subraces</link>
+					</listlink>
+				</text>
+				<traits>
+					<abilityscoreincrease>
+						<name type="string">Ability Score Increase</name>
+						<text type="formattedtext"><p>Your Dexterity score increases by 2.</p></text>
+					</abilityscoreincrease>
+					<age>
+						<name type="string">Age</name>
+						<text type="formattedtext"><p>Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.</p></text>
+					</age>
+					<alignment>
+						<name type="string">Alignment</name>
+						<text type="formattedtext"><p>Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not.</p></text>
+					</alignment>
+					<size>
+						<name type="string">Size</name>
+						<text type="formattedtext"><p>Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.</p></text>
+					</size>
+					<speed>
+						<name type="string">Speed</name>
+						<text type="formattedtext"><p>Your base walking speed is 30 feet feet.</p></text>
+					</speed>
+					<darkvision>
+						<name type="string">Darkvision</name>
+						<text type="formattedtext"><p>Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkenss as if it were dim light. You can't discern color in darkness, only shades of gray.</p></text>
+					</darkvision>
+					<keensenses>
+						<name type="string">Keen Senses</name>
+						<text type="formattedtext"><p>You have proficiency in the Perception skill.</p></text>
+					</keensenses>
+					<feyancestry>
+						<name type="string">Fey Ancestry</name>
+						<text type="formattedtext"><p>You have advantage on saving throws against being charmed, and magic can't put you to sleep.</p></text>
+					</feyancestry>
+					<trance>
+						<name type="string">Trance</name>
+						<text type="formattedtext"><p>Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p></text>
+					</trance>
+					<languages>
+						<name type="string">Languages</name>
+						<text type="formattedtext"><p>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</p></text>
+					</languages>
+					<subrace>
+						<name type="string">Subraces</name>
+						<text type="formattedtext">
+							<p>When you choose the subrace of your elf character, you can choose one of the following options, in addition to those from other sources.</p>
+							<listlink>
+								<link class="reference_subrace" recordname="reference.racedata.elf.subraces.avariel">Avariel</link>
+								<link class="reference_subrace" recordname="reference.racedata.elf.subraces.grugach">Grugach</link>
+							</listlink>
+						</text>
+					</subrace>
+				</traits>
+				<subraces>
+					<avariel>
+						<name type="string">Avariel</name>
+						<text type="formattedtext">
+							<p>The avariel are winged elves. These rare creatures were more common when the worlds of the multiverse were young, but frequent conflicts with dragons much reduced the winged elves' number. Still, a few colonies persist here and there in the Material Plane and on the Plane of Air.</p>
+							<h>Traits</h>
+							<listlink>
+								<link class="reference_subracialtrait" recordname="reference.racedata.elf.subraces.avariel.traits.flight">Flight</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.elf.subraces.avariel.traits.languages">Languages</link>
+							</listlink>
+						</text>
+						<traits>
+							<flight>
+								<name type="string">Flight</name>
+								<text type="formattedtext"><p>You have a flying speed of 30 feet. To use this speed, you can't be wearing medium or heavy armor.</p></text>
+							</flight>
+							<languages>
+								<name type="string">Languages</name>
+								<text type="formattedtext"><p>You can speak, read, and write Auran.</p></text>
+							</languages>
+						</traits>
+					</avariel>
+					<grugach>
+						<name type="string">Grugach</name>
+						<text type="formattedtext">
+							<p>The grugach of the world of Greyhawk shun contact with other folk, preferring the solace of the deepest forests and the companionship of wild animals. Even other elves draw their suspicion.</p>
+							<p>The grugach tend toward chaos and neutrality. They feel no special duty to anyone beyond their own folk and the forest that is their home. Troubles beyond their borders are best kept there. At the same time, they harbor little ambition beyond peaceful coexistence with nature.</p>
+							<p>If anyone is fool enough to disturb a grugach realm, these elves take to arms and fight in earnest. Grugach master the basic weapons needed to hunt and forage in the wood. Every copse of trees becomes a sniper's nest, and each forest meadow is an ambush point. The grugach set pits filled with stakes, snares that leave an intruder helpless to grugach arrows, and other snares designed to kill rather than capture. The grugach fight to the death to preserve their realms.</p>
+							<h>Traits</h>
+							<listlink>
+								<link class="reference_subracialtrait" recordname="reference.racedata.elf.subraces.grugach.traits.abilityscoreincrease">Ability Score Increase</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.elf.subraces.grugach.traits.grugachweapontraining">Grugach Weapon Training</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.elf.subraces.grugach.traits.cantrip">Cantrip</link>
+								<link class="reference_subracialtrait" recordname="reference.racedata.elf.subraces.grugach.traits.languages">Languages</link>
+							</listlink>
+						</text>
+						<traits>
+							<abilityscoreincrease>
+								<name type="string">Ability Score Increase</name>
+								<text type="formattedtext"><p>Your Strength score increases by 1.</p></text>
+							</abilityscoreincrease>
+							<grugachweapontraining>
+								<name type="string">Grugach Weapon Training</name>
+								<text type="formattedtext"><p>You have proficiency with the spear, shortbow, longbow, and net.</p></text>
+							</grugachweapontraining>
+							<cantrip>
+								<name type="string">Cantrip</name>
+								<text type="formattedtext"><p>You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it.</p></text>
+							</cantrip>
+							<languages>
+								<name type="string">Languages</name>
+								<text type="formattedtext"><p>Unlike other elves, you don't speak, read, or write Common. You instead can speak, read, and write Sylvan.</p></text>
+							</languages>
+						</traits>
+					</grugach>
+				</subraces>
+			</elf>
+			<minotaur>
+				<name type="string">Minotaur</name>
+				<text type="formattedtext">
+					<p>In the world of Krynn, the setting of the Dragonlance saga, minotaurs live in an honor-based society where strength determines power in both the gladitorial arenas and in daily life. At home on both land and sea, the minotaurs of Krynn are ferocious sea raiders who rank as the ablest and most dangerous sailors in the world.</p>
+					<h>Arrogant Conquerors</h>
+					<p>Minotaurs embrace the notion that the weak should perish and the strong must rule--and that they themselves are the strongest and most powerful race on Krynn. They believe their destiny is to rule the world, and that their dominion will be one of conquest and military might. To that end, all minotaurs are trained in weapons, armor, and tactics from a young age.</p>
+					<p>The minotaurs' arrogance stems from a combination of strength, cunning, and intellect--three virtues they hold dear, and which they deem the foundation of their greatness. They believe that this combination of traits is what sets them apart from their rivals.</p>
+					<h>Trial by Combat</h>
+					<p>Minotaur society is built on the principle that might makes right, and that considerations of justice are unnecessary. The minotaurs are led by an emperor served by a council of eight minotaurs called the Supreme Circle. All posts within the government, including the emperor's, are won by the strongest and cleverest minotaurs, as proved by combat in the Circus.</p>
+					<p>The Circus is the only means by which a minotaur can rise in society. It is a grand, annual display of single combat in which minotaurs battle each other for supremacy. Minotaur youths must prove themselves in the Circus to earn their passage to adulthood.</p>
+					<p>Participation in the Circus is yet another reason why minotaurs look down on other folk. To the minotaurs, death and glory in battle are a natural process. Combat is the key to ensuring that the strong survive, and that the weak are set aside before they can undermine their superiors' grand schemes of conquest.</p>
+					<h>Honor above All</h>
+					<p>For all their cruelty, minotaurs are bound by a powerful sense of honor. Each victory brings greater honor to both individual minotaurs and their families. Defeat invokes a stain that only death can fully wash away.</p>
+					<p>Honor demands that minotaurs keep their word once it is offered, and each minotaur remains faithful to friends and clan above all else. Minotaurs rarely befriend folk of other races, as they all too often encounter them only in battle. If a minotaur does strike up a friendship it is typically with other creatures that display the minotaurs' virtues and love of battle. To such friends, a minoutar becomes an ally whose support will never waver.</p>
+					<h>Sea Reavers</h>
+					<p>In the world of Krynn, the minotaurs rule a chain of islands dominated by the isles of Mithas and Kothas. Bound by the sea on all sides, the minotaurs focused their tenacity, strength, and cunning to become some of the most skilled and ferocious mariners in the world. They range across the water in their ships, raiding and pillaging as they wish. Minotaurs sometimes engage in trade, but they much prefer to take what they want by force. After all, as the strongest of all folk, they deserve the treasures and goods that lesser creatures have gathered.</p>
+					<h>Minotaur Names</h>
+					<p>Minotaur clan names originate with a great hero whose descendants take on that name as their own, doing their best to live up to the ideals of their ancestor. On Krynn, clan names are always preceded by the prefix "es-" for minotaurs from lands controlled by the island of Mithas, or "de-" for minotaurs from areas under the sway of Kothas.</p>
+					<p><b>Male Names:</b> Beliminorgath, Cinmac, Dastrun, Edder, Galdar, Ganthirogani, Hecariverani, Kyris, Tosher, Zurgas</p>
+					<p><b>Female Names:</b> Ayasha, Calina, Fliara, Helati, Keeli, Kyri, Mogara, Sekra, Tariki, Telia</p>
+					<p><b>Clan Names:</b> Athak, Bregan, Entragath, Kaziganthi, Lagrangli, Mascun, Orilg, Sumarr, Teskos, Zhakan</p>
+					<h>Minotaur Traits</h>
+					<p>The following traits are shared by player characters who are minotaurs.</p>
+					<listlink>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.abilityscoreincrease">Ability Score Increase</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.age">Age</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.alignment">Alignment</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.size">Size</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.speed">Speed</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.horns">Horns</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.goringrush">Goring Rush</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.hammeringhorns">Hammering Horns</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.menacing">Menacing</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.hybridnature">Hybrid Nature</link>
+						<link class="reference_racialtrait" recordname="reference.racedata.minotaur.traits.languages">Languages</link>
+					</listlink>
+				</text>
+				<traits>
+					<abilityscoreincrease>
+						<name type="string">Ability Score Increase</name>
+						<text type="formattedtext"><p>Your Strength score increases by 2, and your Constitution score increases by 1.</p></text>
+					</abilityscoreincrease>
+					<age>
+						<name type="string">Age</name>
+						<text type="formattedtext"><p>Minotaurs enter adulthood at around the age of 17 and can live up to 150 years.</p></text>
+					</age>
+					<alignment>
+						<name type="string">Alignment</name>
+						<text type="formattedtext"><p>Most minotaurs lean toward lawful alignments.</p></text>
+					</alignment>
+					<size>
+						<name type="string">Size</name>
+						<text type="formattedtext"><p>Minotaurs average over 6 feet in height, and they have strong, stocky builds. Your size is Medium.</p></text>
+					</size>
+					<speed>
+						<name type="string">Speed</name>
+						<text type="formattedtext"><p>Your base walking speed is 30 feet.</p></text>
+					</speed>
+					<horns>
+						<name type="string">Horns</name>
+						<text type="formattedtext"><p>Your horns are natural melee weapons, with which you're proficient. When you hit with them, the target takes piercing damage equal to 1d6 + your Strength modifier.</p></text>
+					</horns>
+					<goringrush>
+						<name type="string">Goring Rush</name>
+						<text type="formattedtext"><p>Immediately after you use the Dash action on your turn and move at least as far as your speed, you can make one melee attack with your horns as a bonus action.</p></text>
+					</goringrush>
+					<hammeringhorns>
+						<name type="string">Hammering Horns</name>
+						<text type="formattedtext"><p>Immediately after you hit a creature with a melee attack as part of the Attack action on your turn, you can attempt to shove that creature with your horns using your reaction. The creature must be no more than one size larger than you and within 5 feet of you. It must make a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier. If it fails, you push it up to 5 feet away from your.</p></text>
+					</hammeringhorns>
+					<menacing>
+						<name type="string">Menacing</name>
+						<text type="formattedtext"><p>You have proficiency in the Intimidation skill.</p></text>
+					</menacing>
+					<hybridnature>
+						<name type="string">Hybrid Nature</name>
+						<text type="formattedtext"><p>You have two creature types: humanoid and monstrosity. You can be affected by a game effect if it works on either of your creature types.</p></text>
+					</hybridnature>
+					<languages>
+						<name type="string">Languages</name>
+						<text type="formattedtext"><p>You can speak, read, and write Common and Minotaur.</p></text>
+					</languages>
+				</traits>
+			</minotaur>
+		</racedata>
+		<classdata>
+			<!-- #New classes -->
+			<rangerrevised>
+				<name type="string">Ranger (Revised)</name>
+				<text type="formattedtext">
+					<h>Ranger (Revised)</h>
+					<h>Features</h>
+					<listlink>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.favoredenemy">Favored Enemy</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.naturalexplorer">Natural Explorer</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.fightingstyle">Fighting Style</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.spellcasting">Spellcasting</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.primevalawareness">Primeval Awareness</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.rangerconclave">Ranger Conclave</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.abilityscoreimprovement">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.greaterfavoredenemy">Greater Favored Enemy</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.fleetoffoot">Fleet of Foot</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.hideinplainsight">Hide in Plain Sight</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.vanish">Vanish</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.feralsenses">Feral Senses</link>
+						<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.foeslayer">Foe Slayer</link>
+					</listlink>
+					<h>Ranger Conclaves</h>
+					<p>Across the wilds, rangers come together to form conclaves--loose associations whose members share a similar outlook on how best to protect nature from those who would despoil it.</p>
+					<listlink>
+						<link class="reference_classability" recordname="reference.classdata.rangerrevised.abilities.hunter">Hunter</link>
+					</listlink>
+				</text>
+				<hp>
+					<hitdice>
+						<name type="string">Hit Dice</name>
+						<text type="string">1d10 per class level</text>
+					</hitdice>
+				</hp>
+				<hitpointsat1stlevel>
+					<name type="string">Hit Points at 1st Level</name>
+					<text type="string">10 + your Constitution modifier</text>
+				</hitpointsat1stlevel>
+				<hitpointsathigherlevels>
+					<name type="string">Hit Points at higher levels</name>
+					<text type="string">1d10 (or 6) + your Constitution modifier per class level after 1st</text>
+				</hitpointsathigherlevels>
+				<proficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">Light armor, medium armor, shields</text>
+					</armor>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Simple weapons, martial weapons</text>
+					</weapons>
+					<tools>
+						<name type="string">Tools</name>
+						<text type="string">None</text>
+					</tools>
+					<savingthrows>
+						<name type="string">Saving Throws</name>
+						<text type="string">Strength, Dexterity</text>
+					</savingthrows>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string">Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival</text>
+					</skills>
+				</proficiencies>
+				<multiclassproficiencies>
+				</multiclassproficiencies>
+				<features>
+					<!-- #Base class features -->
+					<favoredenemy>
+						<name type="string">Favored Enemy</name>
+						<level type="number">1</level>
+						<text type="formattedtext">
+							<p>Beginning at 1st level, you have	significant	experience studying, tracking, hunting, and	even talking to	a certain type of enemy	commonly encountered in	the	wilds.</p>
+							<p>Choose a type of favored	enemy: beasts, fey, humanoids, monstrosities, or undead. You gain a	+2	bonus to damage	rolls with weapon attacks against creatures	of	the	chosen type. Additionally, you have	advantage on Wisdom (Survival)	checks to	track	your	favored	enemies,	as	well as	on	Intelligence checks	to	recall	information	about them.</p>
+							<p>When	you	gain	this	feature,	you	also	learn	one	 language	of	your	choice,	typically	one	spoken	by	 your	favored	enemy	or	creatures	associated	with	it.	 However,	you	are	free	to	pick	any	language	you	 wish	to	learn.</p>
+						</text>
+					</favoredenemy>
+					<naturalexplorer>
+						<name type="string">Natural Explorer</name>
+						<level type="number">1</level>
+						<text type="formattedtext">
+							<p>You	are a	master	of	navigating	the	natural	world,	 and	you	react	with	swift	and	decisive	action	 when	attacked. This	grants	you	the	following benefits:</p>
+							<list>
+								<li>You ignore difficult terrain.</li>
+								<li>You have advantage on initiative rolls.</li>
+								<li>On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</li>
+							</list>
+							<p>In addition, you are skilled at navigating the wilderness. You gain the following benefits when traveling for an hour or more:</p>
+							<list>
+								<li>Difficult terrain doesn't slow your group's travel.</li>
+								<li>Your group can't become lost except by magical means.</li>
+								<li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>
+								<li>If you are traveling alone, you can move stealthily at a normal pace.</li>
+								<li>When you forage, you find twice as much food as you normally would.</li>
+								<li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li>
+							</list>
+						</text>
+					</naturalexplorer>
+					<fightingstyle>
+						<name type="string">Fighting Style</name>
+						<level type="number">2</level>
+						<text type="formattedtext">
+							<p>At	2nd	level,	you	adopt	a	particular	style	of	fighting	as	your	specialty.	Choose	one	of	the	following	options.	You	can't	take	a	Fighting	Style	option	more	than	once,	even	if	you	later	get	to	choose	again.</p>
+							<h>Archery</h>
+							<p>You gain a +2 bonus to attack rolls you make with ranged weapons.</p>
+							<h>Defense</h>
+							<p>While you are wearing armor, you gain a +1 bonus to AC.</p>
+							<h>Dueling</h>
+							<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>
+							<h>Two-Weapon Fighting</h>
+							<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>
+						</text>
+					</fightingstyle>
+					<spellcasting>
+						<name type="string">Spellcasting</name>
+						<level type="number">2</level>
+						<text type="formattedtext">
+							<p>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does.</p>
+							<h>Mana</h>
+							<p>The Ranger table shows how much mana you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend mana to create a spell slot of the spell's level or higher. You regain all expended mana  when you finish a long rest.</p>
+							<h>Spells Known of 1st Level and Higher</h>
+							<p>You know two 1st-level spells of your choice from the ranger spell list.</p>
+							<p>The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level you can cast. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.</p>
+							<p>Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must also be of a level you can cast.</p>
+							<h>Spellcasting Ability</h>
+							<p>Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a ranger spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for an ranger spell you cast and when making an attack roll with one.</p>
+							<p><b>Spell save DC</b> = 8 + your proficiency bonus + your Wisdom modifier</p>
+							<p><b>Spell attack modifier</b> = your proficiency bonus + your Wisdom modifier</p>
+						</text>
+					</spellcasting>
+					<primevalawareness>
+						<name type="string">Primeval Awareness</name>
+						<level type="number">3</level>
+						<text type="formattedtext">
+							<p>Beginning	at	3rd	level,	your	mastery	of	ranger	lore	allows	you	to	establish	a	powerful	link tobeasts	and to the	land	around	you.</p>
+							<p>You	have	an	innate	ability	to	communicate	with	beasts,	and	they	recognize	you	as	a	kindred	spirit. Through	sounds	and	gestures,	you	can	communicate	simple	ideas	to	a	beast as	an	action,	and	can	read	its	basic	mood	and	intent.	You	learn	its	emotional	state,	whether	it	is	affected	by	magic	of	any	sort,	its	short-term	needs	(such	as	food	or	safety),	and	actions	you	can	take	(if	any)	to	persuade	it	to	not attack.</p>
+							<p>You	cannot	use	this	ability	against	a	creature that	you	have	attacked	within	the	past	10	minutes.</p>
+							<p>Additionally,	you	can	attune	your	senses	to	determine	if	any	of	your	favored	enemies	lurk nearby.	By	spending 1 uninterrupted	minute	in	concentration	(as	if	you	were	concentrating	on	a	spell),	you	can	sense	whether	any	of	your	favored	enemies	are	present	within	5	miles	of	you.	This	feature	reveals	which	of	your	favored	enemies	are	present,	their	numbers,	and	the	creatures'	general	direction and	distance (in miles) from you.</p>
+							<p>If there are multiple groups of your favored enemies within range, you learn this information for each group.</p>
+						</text>
+					</primevalawareness>
+					<rangerconclave>
+						<name type="string">Ranger Conclave</name>
+						<level type="number">3</level>
+						<text type="formattedtext">
+							<p>At 3rd level, you choose to emulate the ideals and training of a ranger conclave. Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level.</p>
+						</text>
+						<specializationchoice type="number">1</specializationchoice>
+					</rangerconclave>
+					<abilityscoreimprovement>
+						<name type="string">Ability Score Improvement</name>
+						<level type="number">4</level>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th, level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement>
+					<greaterfavoredenemy>
+						<name type="string">Greater Favored Enemy</name>
+						<level type="number">6</level>
+						<text type="formattedtext">
+							<p>At	6th	level,	you	are	ready	to	hunt	even	deadlier	game. Choose	a	type	of	greater	favored	enemy:	aberrations,	celestials,	constructs,	dragons,	elementals,	fiends,	or	giants. You	gain	all	the	benefits	against	this	chosen	enemy	that you	normally	gain	against	your	favored	enemy,	including	an	additional	language. Your	bonus	to	damage	rolls	against	all	your	favored	enemies	increases	to	+4.</p>
+							<p>Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.</p>
+						</text>
+					</greaterfavoredenemy>
+					<abilityscoreimprovement8>
+						<name type="string">Ability Score Improvement</name>
+						<level type="number">8</level>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th, level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement8>
+					<fleetoffoot>
+						<name type="string">Fleet of Foot</name>
+						<level type="number">8</level>
+						<text type="formattedtext">
+							<p>Beginning at 8th level, you can use the Dash action as a bonus action on your turn.</p>
+						</text>
+					</fleetoffoot>
+					<hideinplainsight>
+						<name type="string">Hide in Plain Sight</name>
+						<level type="number">10</level>
+						<text type="formattedtext">
+							<p>Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes.</p>
+							<p>When	you	attempt	to	hide on	your	turn,	you	can	opt	to	not	move on	that	turn.	If	you	avoid	moving,	creatures	that	attempt	to	detect	you	take	a	?10	penalty	to	their	Wisdom	(Perception)	checks	until	the	start	of	your	next	turn.	You	lose this	benefit	if	you	move or	fall	prone,	either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.</p>
+							<p>If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</p>
+						</text>
+					</hideinplainsight>
+					<abilityscoreimprovement12>
+						<name type="string">Ability Score Improvement</name>
+						<level type="number">12</level>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th, level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement12>
+					<vanish>
+						<name type="string">Vanish</name>
+						<level type="number">14</level>
+						<text type="formattedtext">
+							<p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail.</p>
+						</text>
+					</vanish>
+					<abilityscoreimprovement16>
+						<name type="string">Ability Score Improvement</name>
+						<level type="number">16</level>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th, level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement16>
+					<feralsenses>
+						<name type="string">Feral Senses</name>
+						<level type="number">18</level>
+						<text type="formattedtext">
+							<p>At	18th	level,	you	gain	preternatural	senses	that help	you	fight	creatures	you	can't	see.	When	you	 attack	a	creature	you	can't	see,	your inability	to	see	it	doesn't	impose	disadvantage	on	your attack	rolls	against	it.</p>
+							<p>You	are	also aware	of	the	location of	any	invisible	creature	within	30	feet	of	you,	provided	that	the	creature	isn't	hidden	from	you	and	you	aren't	blinded	or	deafened.</p>
+						</text>
+					</feralsenses>
+					<abilityscoreimprovement19>
+						<name type="string">Ability Score Improvement</name>
+						<level type="number">19</level>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th, level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement19>
+					<foeslayer>
+						<name type="string">Foe Slayer</name>
+						<level type="number">20</level>
+						<text type="formattedtext">
+							<p>At	20th	level,	you	become	an	unparalleled hunter.	Once	on	each	of	your	turns,	you	can	add	your	Wisdom	modifier	to	the	attack	roll	or	the	damage	roll	of	an	attack	you	make.	You	can	choose	to	use	this	feature	before	or	after	the	roll,	but	before	any	effects	of	the	roll	are	applied.</p>
+						</text>
+					</foeslayer>
+					<!-- #Ranger conclave features -->
+					<huntersprey>
+						<name type="string">Hunter's Prey</name>
+						<level type="number">3</level>
+						<text type="formattedtext">
+							<p>At 3rd level, you gain one of the following features of your choice.</p>
+							<h>Colossus Slayer</h>
+							<p>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p>
+							<h>Giant Killer</h>
+							<p>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p>
+							<h>Horde Breaker</h>
+							<p>Once on each of your turns when youj make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within ranger of your weapon.</p>
+						</text>
+						<specialization type="string">Hunter</specialization>
+					</huntersprey>
+					<extraattackhunter>
+						<name type="string">Extra Attack</name>
+						<level type="number">5</level>
+						<text type="formattedtext">
+							<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+						</text>
+						<specialization type="string">Hunter</specialization>
+					</extraattackhunter>
+					<defensivetactics>
+						<name type="string">Defensive Tactics</name>
+						<level type="number">7</level>
+						<text type="formattedtext">
+							<p>At 7th level, you gain one of the following features of your choice:</p>
+							<h>Escape the Horde</h>
+							<p>Opportunity attacks against you are made with disadvantage.</p>
+							<h>Multiattack Defense</h>
+							<p>When a creatuer hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</p>
+							<h>Steel Will</h>
+							<p>You have advantage on saving throws against being frightened.</p>
+						</text>
+						<specialization type="string">Hunter</specialization>
+					</defensivetactics>
+					<multiattack>
+						<name type="string">Defensive Tactics</name>
+						<level type="number">11</level>
+						<text type="formattedtext">
+							<p>At 11th level, you gain one of the following features of your choice.</p>
+							<h>Volley</h>
+							<p>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</p>
+							<h>Whirlwind Attack</h>
+							<p>You can use your action to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target.</p>
+						</text>
+						<specialization type="string">Hunter</specialization>
+					</multiattack>
+					<superiorhuntersdefense>
+						<name type="string">Superior Hunter's Defense</name>
+						<level type="number">15</level>
+						<text type="formattedtext">
+							<p>At 15th level, you gain one of the following features of your choice.</p>
+							<h>Evasion</h>
+							<p>When you are subjected to an effect, such as a red dragon's fiery breath or a <i>lightning bolt</i> spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.</p>
+							<h>Stand Against the Tide</h>
+							<p>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</p>
+							<h>Uncanny Dodge</h>
+							<p>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>
+						</text>
+						<specialization type="string">Hunter</specialization>
+					</superiorhuntersdefense>
+				</features>
+				<abilities>
+					<hunter>
+						<name type="string">Hunter</name>
+						<level type="number">3</level>
+						<text type="formattedtext">
+							<p>Some rangers seek to master weapons to better protect civilization from the terrors of the wilderness. Members of the Hunter Conclave learn specialized fighting techniques for use against the most dire threats, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons..</p>
+							<h>Features</h>
+							<listlink>
+								<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.huntersprey">Hunter's Prey</link>
+								<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.extraattackhunter">Extra Attack</link>
+								<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.defensivetactics">Defensive Tactics</link>
+								<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.multiattack">Multiattack</link>
+								<link class="reference_classfeature" recordname="reference.classdata.rangerrevised.features.superiorhuntersdefense">Superior Hunter's Defense</link>
+							</listlink>
+						</text>
+					</hunter>
+				</abilities>
+			</rangerrevised>
+			<!-- #New archetypes -->
+			<sorcerer>
+				<name type="string">Sorcerer</name>
+				<text type="formattedtext">
+					<h>Sorcerer</h>
+					<p><b><i>This class is designed to provide the homebrew Warcraft sorcerous origins. Please reference the Sorcerer class from the</i> Player's Handbook <i>for the full class description.</i></b></p>
+					<h>Features</h>
+					<listlink>
+						<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.spellcasting">Spellcasting</link>
+						<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.sorcerousorigin">Sorcerous Origin</link>
+						<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.fontofmagic">Font of Magic</link>
+						<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.metamagic">Metamagic</link>
+						<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.abilityscoreimprovement">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.sorcerousrestoration">Sorcerous Restoration</link>
+					</listlink>
+					<h>Sorcerous Origins</h>
+					<listlink>
+						<link class="reference_classability" recordname="reference.classdata.sorcerer.abilities.giantsoul">Giant Soul</link>
+						<link class="reference_classability" recordname="reference.classdata.sorcerer.abilities.phoenixsorcery">Phoenix Sorcery</link>
+						<link class="reference_classability" recordname="reference.classdata.sorcerer.abilities.seasorcery">Sea Sorcery</link>
+						<link class="reference_classability" recordname="reference.classdata.sorcerer.abilities.stonesorcery">Stone Sorcery</link>
+					</listlink>
+				</text>
+				<hp>
+					<hitdice>
+						<name type="string">Hit Dice</name>
+						<text type="string">1d6 per sorcerer level</text>
+					</hitdice>
+				</hp>
+				<hitpointsat1stlevel>
+					<name type="string">Hit Points at 1st Level</name>
+					<text type="string">6 + your Constitution modifier</text>
+				</hitpointsat1stlevel>
+				<hitpointsathigherlevels>
+					<name type="string">Hit Points at higher levels</name>
+					<text type="string">1d6 (or 4) + your Constitution modifier per sorcerer level after 1st</text>
+				</hitpointsathigherlevels>
+				<proficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string">None</text>
+					</armor>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string">Daggers, darts, slings, quarterstaffs, light crossbows</text>
+					</weapons>
+					<tools>
+						<name type="string">Tools</name>
+						<text type="string">None</text>
+					</tools>
+					<savingthrows>
+						<name type="string">Saving Throws</name>
+						<text type="string">Constitution, Charisma</text>
+					</savingthrows>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string">Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion</text>
+					</skills>
+				</proficiencies>
+				<multiclassproficiencies>
+					<armor>
+						<name type="string">Armor</name>
+						<text type="string"></text>
+					</armor>
+					<weapons>
+						<name type="string">Weapons</name>
+						<text type="string"></text>
+					</weapons>
+					<tools>
+						<name type="string">Tools</name>
+						<text type="string"></text>
+					</tools>
+					<skills>
+						<name type="string">Skills</name>
+						<text type="string"></text>
+					</skills>
+				</multiclassproficiencies>
+				<features>
+					<!-- #Base class features -->
+					<spellcasting>
+						<name type="string">Spellcasting</name>
+						<level type="number">1</level>
+						<text type="formattedtext">
+							<p>An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.</p>
+							<h>Cantrips</h>
+							<p>At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table.</p>
+							<h>Mana</h>
+							<p>The Sorcerer table shows how much mana you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend mana to create a spell slot of the spell's level or higher. You regain all expended mana when you finish a long rest.</p>
+							<p>For example, if you know the 1st level spell <i>burning hands</i> and can cast up to 2nd-level spells, you can cast <i>burning hands </i>at either 1st or 2nd level.</p>
+							<h>Spells Known of 1st Level and Higher</h>
+							<p>You know two 1st-level spells of your choice from the sorcerer spell list.</p>
+							<p>The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level which you can cast. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</p>
+							<p>Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level which you can cast.</p>
+							<h>Spellcasting Ability</h>
+							<p>Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.</p>
+							<p><b>Spell Save DC</b> = 8 + your proficiency bonus + your Charisma modifier</p>
+							<p><b>Spell attack modifier</b> = your proficiency bonus + your Charisma modifier</p>
+							<h>Spellcasting Focus</h>
+							<p>You can use an arcane focus as a spellcasting focus for your sorcerer spells.</p>
+						</text>
+					</spellcasting>
+					<sorcerousorigin>
+						<name type="string">Sorcerous Origin</name>
+						<level type="number">1</level>
+						<text type="formattedtext">
+							<p>Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.</p>
+						</text>
+						<specializationchoice type="number">1</specializationchoice>
+					</sorcerousorigin>
+					<fontofmagic>
+						<name type="string">Font of Magic</name>
+						<level type="number">2</level>
+						<text type="formattedtext">
+							<p>At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by bonus mana, which allows you to fuel a variety of magical effects.</p>
+							<h>Bonus Mana</h>
+							<p>You have 2 bonus mana points, and you gain more as you reach higher levels, as shown in the Bonus Mana column of the Sorcerer table. You can never have more bonus mana than shown on the table for your level. You regain all spent bonus mana when you finish a long rest.</p>
+							<h>Flexible Casting</h>
+							<p>You can use your bonus mana for the purpose of creating spell slots to cast spells. You learn other ways to expend your mana as you reach higher levels.</p>
+						</text>
+					</fontofmagic>
+					<metamagic>
+						<name type="string">Metamagic</name>
+						<level type="number">3</level>
+						<text type="formattedtext">
+							<p>At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.</p>
+							<p>You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.</p>
+							<p><b>-------------------------------------------------------------------------------</b></p>
+							<h>Careful Spell</h>
+							<p>When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 mana and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.</p>
+							<h>Distant Spell</h>
+							<p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 mana to double the range of the spell.</p>
+							<p>When you cast a spell that has a range of touch, you can spend 1 mana to make the range of the spell 30 feet.</p>
+							<h>Empowered Spell</h>
+							<p>When you roll damage for a spell, you can spend 1 mana to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.</p>
+							<p>You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.</p>
+							<h>Extended Spell</h>
+							<p>When you cast a spell that has a duration of 1 minute or longer, you can spend 1 mana to double its duration, to a maximum duration of 24 hours.</p>
+							<h>Heightened Spell</h>
+							<p>When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 mana to give one target of the spell disadvantage on its first saving throw made against the spell.</p>
+							<h>Quickened Spell</h>
+							<p>When you cast a spell that has a casting time of 1 action, you can spend 2 mana to change the casting time to 1 bonus action for this casting.</p>
+							<h>Subtle Spell</h>
+							<p>When you cast a spell, you can spend 1 mana to cast it without any somatic or verbal components.</p>
+							<h>Twinned Spell</h>
+							<p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of mana equal to the spell's level to target a second creature in range with the same spell (1 mana if the spell is a cantrip).</p>
+							<p>To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, <i>magic missile</i> and <i>scorching ray</i> aren't eligible, but <i>ray of frost</i> is.</p>
+						</text>
+					</metamagic>
+					<abilityscoreimprovement>
+						<name type="string">Ability Score Improvement</name>
+						<level type="number">4</level>
+						<text type="formattedtext">
+							<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+						</text>
+					</abilityscoreimprovement>
+					<sorcerousrestoration>
+						<name type="string">Sorcerous Restoration</name>
+						<level type="number">20</level>
+						<text type="formattedtext">
+							<p>At 20th level, you regain 4 expended mana whenever you finish a short rest.</p>
+						</text>
+					</sorcerousrestoration>
+					<!-- #Giant soul origin abilities -->
+					<jotunresilience>
+						<name type="string">Jotun Resilience</name>
+						<level type="number">1</level>
+						<text type="formattedtext">
+							<p>The resilience of the giants flows through your body. At 1st level, your hit point maximum increases by 1, and it increases by 1 again whenever you gain a level in this class.</p>
+						</text>
+						<specialization type="string">Giant Soul</specialization>
+					</jotunresilience>
+					<markoftheordning>
+						<name type="string">Mark of the Ordning</name>
+						<level type="number">1</level>
+						<text type="formattedtext">
+							<p>At 1st level, you discover innate magical abilities within yourself that are based on your giant heritage. Select one of the giant types from the Mark of the Ordning table. At 1st and 3rd level, you learn spells associated with your choice, as shown in the table. These spells count as sorcerer spells for you, but they don't count against your number of spells known.</p>
+							<table>
+								<tr><td><b>Giant Type</b></td> <td><b>Spells at 1st Level</b></td> <td><b>Spell at 3rd Level</b></td></tr>
+								<tr><td>Cloud giant</td> <td><i>fog cloud, minor illusion</i></td> <td><i>invisibility</i></td>
+								<tr><td>Fire giant</td> <td><i>burning hands, fire bolt</i></td> <td><i>flaming sphere</i></td>
+								<tr><td>Frost giant</td> <td><i>armor of Agathys, ray of frost</i></td> <td><i>hold person</i></td>
+								<tr><td>Hill giant</td> <td><i>heroism, shillelagh </i></td> <td><i>enlarge/reduce</i></td>
+								<tr><td>Stone giant</td> <td><i>entangle, resistance</i></td> <td><i>spike growth</i></td>
+								<tr><td>Storm giant</td> <td><i>shocking grasp, thunderwave</i></td> <td><i>gust of wind</i></td>
+							</table>
+						</text>
+						<specialization type="string">Giant Soul</specialization>
+					</markoftheordning>
+					<potentspellcasting>
+						<name type="string">Potent Spellcasting</name>
+						<level type="number">6</level>
+						<text type="formattedtext">
+							<p>At 6th level you can add your Charisma modifier to the damage of any Sorcerer cantrips you cast.</p>
+						</text>
+						<specialization type="string">Arcane Sorcery</specialization>
+					</potentspellcasting>
+					<magicalmultitasking>
+						<name type="string">Magical Multitasking</name>
+						<level type="number">18</level>
+						<text type="formattedtext">
+							<p>At 18th, when you cast a spell with a Concentration duration, you may choose to combine the Concentration of the two spells together. If you do this, the duration of each spell becomes 1 minute if it was longer than that. If you lose Concentration on one of these spells, you lose Concentration on both spells.</p>
+							<p>You may use this ability once, after which you must finish a long rest before doing so again.</p>
+						</text>
+						<specialization type="string">Arcane Sorcery</specialization>
+					</magicalmultitasking>
+				</features>
+				<abilities>
+					<giantsoul>
+						<name type="string">Giant Soul</name>
+						<level type="number"></level>
+						<text type="formattedtext">
+							<p>The giants once dwelled in a fabled realm known as Ostoria, a paradise for their folk that reflected their mastery of the mortal realm. In time, Ostoria fell, and the giants were scattered and broken. During that mythic era, the giants granted a few chosen individuals among the small folk a shard of their great power. These favored people were caught in the same tragedy that sundered Ostoria. Since that time, they have spread across the many worlds of the multiverse. Now and again, one of their descendents manifests the gifts imparted by the giants, granting them sorcerous magic that allows them to command the elements and gain the might of a giant.</p>
+							<h>Features</h>
+							<listlink>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.jotunresilience">Jotun Resilience</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.markoftheordning">Mark of the Ordning</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.souloflostostoria">Soul of Lost Ostoria</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.rageoffallenostoria">Rage of Fallen Ostoria</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.blessingoftheallfather">Blessing of the All Father</link>
+							</listlink>
+						</text>
+					</giantsoul>
+					<phoenixsorcery>
+						<name type="string">Phoenix Sorcery</name>
+						<level type="number"></level>
+						<text type="formattedtext">
+							<p>Your power draws from the immortal flame that fuels the legendary phoenix. You or your ancestors perhaps rendered a phoenix a great service, or you were born in its presence. Whatever the cause, a shard of the phoenix's power dwells within you.</p>
+							<p>That power is a mixed blessing. Like the mythical creature, you can invoke fiery energy and gain the ability to cheat death itself. This power comes at a cost. The fire within you seethes, demanding to be unleashed. You sometimes find yourself absentmindedly feeding fires. You can't bear to allow a fire to sputter out. You feel most comfortable while holding a lit torch or sitting in front of a campfire.</p>
+							<p>More importantly, this gift comes with no special protection from fire. You are as vulnerable as any other creature to fiery magic, including your own. Phoenix sorcerers can use their powers to pull themselves back from the brink of death, and all too often their own, rash nature or reliance on destructive magic is what puts them there in the first place.</p>
+							<p>Such sorcerers are wanderers by necessity. The volatile nature of their magic makes other folk nervous. If a fire breaks out in town, a phoenix sorcerer had best flee, whether guilty or not. Fire is a dangerous force, and phoenix sorcerers have a reputation (deserved or not) for reckless behavior, confident that the essence of the phoenix can save them.</p>
+							<h>Features</h>
+							<listlink>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.ignite">Ignite</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.mantleofflame">Mantle of Flame</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.phoenixspark">Phoenix Spark</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.nourishingfire">Nourishing Fire</link>
+								<link class="reference_classfeature" recordname="reference.classdata.sorcerer.features.formofthephoenix">Form of the Phoenix</link>
+							</listlink>
+						</text>
+					</phoenixsorcery>
+				</abilities>
+			</sorcerer>
+			
+		</classdata>
+		<skilldata>
+			<!-- #Duplicate this section of code for each skill you wish to add -->
+			<xxSkill>
+				<name type="string">xxSkill</name>
+				<text type="formattedtext">
+					<p>xxDescription</p>
+				</text>
+			</xxSkill>
+		</skilldata>
+		<featdata>
+			<acrobat>
+				<name type="string">Acrobat</name>
+				<text type="formattedtext">
+					<p>You become more nimble, gaining the following benefits:</p>
+					<list>
+						<li>Increase your Dexterity score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.</li>
+						<li>As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn.</li>
+					</list>
+				</text>
+			</acrobat>
+			<alchemist>
+				<name type="string">Alchemist</name>
+				<text type="formattedtext">
+					<p>You have studied the secrets of alchemy and are an expert in its practice, gaining the following benefits:</p>
+					<list>
+						<li>Increase your Intelligence score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency with alchemist's supplies. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.</li>
+						<li>As an action, you can identify one potion within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.</li>
+						<li>Over the course of any short rest, you can temporarily improve the potency of one <i>potion of healing</i> of any rarity. To use this benefit, you must have alchemist's supplies with you, and the potion must be within reach. If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion's die roll and regains the maximum number of hit points the potion can restore.</li>
+					</list>
+				</text>
+			</alchemist>
+			<animalhandler>
+				<name type="string">Animal Handler</name>
+				<text type="formattedtext">
+					<p>You master the techniques needed to train and handle animals. You gain the following benefits:</p>
+					<list>
+						<li>Increase your Wisdom score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.</li>
+						<li>You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.</li>
+					</list>
+				</text>
+			</animalhandler>
+			<arcanist>
+				<name type="string">Arcanist</name>
+				<text type="formattedtext">
+					<p>You study the arcane arts, gaining the following benefits:</p>
+					<list>
+						<li>Increase your Intelligence score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.</li>
+						<li>You learn the <i>prestidigitation</i> and <i>detect magic</i> spells. You can cast <i>detect magic</i> once without expending mana, and you regain the ability to do so when you finish a long rest.</li>
+					</list>
+				</text>
+			</arcanist>
+			<blademastery>
+				<name type="string">Blade Mastery</name>
+				<text type="formattedtext">
+					<p>You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain the following benefits when using any of them:</p>
+					<list>
+						<li>You gain a +1 bonus to attack rolls you make with the weapon.</li>
+						<li>On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants you a +1 bonus to your AC until the start of your next turn or until you're not holding the weapon.</li>
+						<li>When you make an opportunity attack with the weapon, you have advantage on the attack roll.</li>
+					</list>
+				</text>
+			</blademastery>
+			<brawny>
+				<name type="string">Brawny</name>
+				<text type="formattedtext">
+					<p>You become stronger, gaining the following benefits:</p>
+					<list>
+						<li>Increase your Strength score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.</li>
+						<li>You count as if you were one size larger for the purpose of determining your carrying capacity.</li>
+					</list>
+				</text>
+			</brawny>
+			<burglar>
+				<name type="string">Burglar</name>
+				<text type="formattedtext">
+					<p>You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:</p>
+					<list>
+						<li>Increase your Dexterity score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency with thieves' tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.</li>
+					</list>
+				</text>
+			</burglar>
+			<fellhanded>
+				<name type="string">Fell Handed</name>
+				<text type="formattedtext">
+					<p>You master the handaxe, battleaxe, greataxe, warhammer, and maul. You gain the following benefits when using any of them:</p>
+					<list>
+						<li>You gain a +1 bonus to attack rolls you make with the weapon.</li>
+						<li>Whenever you have advantage on a melee attack roll you make with the weapon and hit, you can knock the target prone if the lower of the two d20 rolls would also hit the target.</li>
+						<li>Whenever you have disadvantage on a melee attack roll you make with the weapon, the target takes bludgeoning damage equal to your Strength modifier (minimum of 0) if the attack misses but the higher of the two d20 rolls would have hit.</li>
+						<li>If you use the Help action to aid an ally's melee attack while you're wielding the weapon, you knock the target's shield aside momentarily. In addition to the ally gaining advantage on the attack roll, the ally gains a +2 bonus to the roll if the target is using a shield.</li>
+					</list>
+				</text>
+			</fellhanded>
+			<flailmastery>
+				<name type="string">Flail Mastery</name>
+				<text type="formattedtext">
+					<p>The flail is a tricky weapon to use, but you have spent countless hours mastering it. You gain the following benefits:</p>
+					<list>
+						<li>You gain a +1 bonus to attack rolls you make with a flail.</li>
+						<li>As a bonus action on your turn, you can prepare yourself to extend your flail to sweep over targets' shields. Until the end of this turn, your attack rolls with a flail gain a +2 bonus against any target using a shield.</li>
+						<li>When you hit with an opportunity attack using a flail, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.</li>
+					</list>
+				</text>
+			</flailmastery>
+			<gourmand>
+				<name type="string">Gourmand</name>
+				<text type="formattedtext">
+					<p>You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:</p>
+					<list>
+						<li>Increase your Constitution score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency with cook's utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.</li>
+						<li>As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.</li>
+						<li>During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook's utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.</li>
+					</list>
+				</text>
+			</gourmand>
+			<masterofdisguise>
+				<name type="string">Master of Disguise</name>
+				<text type="formattedtext">
+					<p>You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:</p>
+					<list>
+						<li>Increase your Charisma score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency with the disguise kit. If you are already proficient with them, you add double your proficiency bonus to checks you make with it.</li>
+						<li>If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.</li>
+					</list>
+				</text>
+			</masterofdisguise>
+			<medic>
+				<name type="string">Medic</name>
+				<text type="formattedtext">
+					<p>You master the physician's arts, gaining the following benefits:</p>
+					<list>
+						<li>Increase your Wisdom score by 1, to a maximum of 20.</li>
+						<li>You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.</li>
+						<li>During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, the creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.</li>
+					</list>
+				</text>
+			</medic>
+			<spearmastery>
+				<name type="string">Spear Mastery</name>
+				<text type="formattedtext">
+					<p>Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You gain the following benefits:</p>
+					<list>
+						<li>You gain a +1 bonus to attack rolls you make with a spear.</li>
+						<li>When you use a spear, its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands. (This benefit has no effect if another feature has already improved the weapon's die.)</li>
+						<li>You can set your spear to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creature moves within your spear's reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can't use this ability if the creature used the Disengage action before moving.</li>
+						<li>As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn.</li>
+					</list>
+				</text>
+			</spearmastery>
+		</featdata>
+		<spelldata>
+			<!-- #Duplicate this section of code for each spell you wish to add -->
+			<xxSpell>
+				<name type="string">xxSpell</name>
+				<locked type="number">1</locked>
+				<level type="number">xxNum</level>
+				<school type="string">xxSchool</school>
+				<castingtime type="string">1 action</castingtime>
+				<range type="string">xxRange</range>
+				<components type="string">V, S</components>
+				<duration type="string">xxDuration</duration>
+				<description type="formattedtext">
+					<p>xxDescription</p>
+					<p><b><i>At Higher Levels. </i></b>xxDescription</p>
+				</description>
+				<!-- #Change this to list the classes that have access to it -->
+				<source type="string">xxSources</source>
+			</xxSpell>
+		</spelldata>
+		<referencemanual>
+			<!-- #Duplicate this section of code for each page in the reference manual -->
+			<xxPage>
+				<name type="string">xxPageName</name>
+				<!-- #This text can be used as the only text of the page or as text preceding the list 
+					 of blocks -->
+				<text type="formattedtext">xxText</text>
+				<!-- The page of a reference manual consists of a sequence of blocks that are displayed 
+					 vertically. Each block can contain a mix of text, image, tokens, or icons, depending 
+					 on the type of block. You can place the blocks in any order you want. -->
+				<blocks>
+					<!-- #Duplicate the sections of code for each block you wish to add -->
+					<!-- Simple Text Block -->
+					<xxBlockName1>
+						<blocktype type="string">text</blocktype>
+						<text type="formattedtext"><p>xxText</p></text>
+						<!-- Possible frame styles: 'blue', 'brown', 'green', 'pink', 'picture', 'page', 
+							 'sidebar', 'text 1', 'text2', 'text3', 'text4', 'text5' -->
+						<frame type="string">xxFrame</frame>
+					</xxBlockName1>
+					<!-- Two-Column Text Block -->
+					<xxBlockName2>
+						<blocktype type="string">text</blocktype>
+						<align type="string">left,right</align>
+						<text type="formattedtext"><p>xxText</p></text>
+						<text2 type="formattedtext"><p>xxText</p></text2>
+					</xxBlockName2>
+					<!-- Image Block -->
+					<xxBlockName3>
+						<blocktype type="string">image</blocktype>
+						<size type="string">138,242</size>
+						<!-- #Images should be put into a folder called 'images' and placed inside the module;
+							 change this entry to the name of the image file used -->
+						<image type="image"><bitmap>images/blackmage.jpg</bitmap></image>
+						<caption type="string">xxCaption</caption>
+					</xxBlockName3>
+					<!-- Text and Image Block -->
+					<xxBlockName4>
+						<blocktype type="string">image</blocktype>
+						<align type="string">left,right</align>
+						<size type="string">138,242</size>
+						<image type="image"><bitmap>images/blackmage.jpg</bitmap></image>
+						<caption type="string">xxCaption</caption>
+						<text type="formattedtext"><p>xxText</p></text>
+					</xxBlockName4>
+					<!-- Icon Block -->
+					<xxBlockName5>
+						<blocktype type="string">icon</blocktype>
+						<size type="string">xxWidth,xxHeight</size>
+						<icon type="string">xxIconName</icon>
+					</xxBlockName5>
+				</blocks>
+			</xxPage>
+		</referencemanual>
+	</reference>
+	<lists>
+		<races>
+			<byletter>
+				<description type="string">Races</description>
+				<groups>
+					<typeletterC>
+						<description type="string">C</description>
+						<index>
+							<centaur>
+								<name type="string">Centaur</name>
+								<link type="windowreference">
+									<class>reference_race</class>
+									<recordname>reference.racedata.centaur</recordname>
+								</link>
+							</centaur>
+							<changeling>
+								<name type="string">Changeling</name>
+								<link type="windowreference">
+									<class>reference_race</class>
+									<recordname>reference.racedata.changeling</recordname>
+								</link>
+							</changeling>
+						</index>
+					</typeletterC>
+					<typeletterM>
+						<description type="string">M</description>
+						<index>
+							<minotaur>
+								<name type="string">Minotaur</name>
+								<link type="windowreference">
+									<class>reference_race</class>
+									<recordname>reference.racedata.minotaur</recordname>
+								</link>
+							</minotaur>
+						</index>
+					</typeletterM>
+					<typeletterW>
+						<description type="string">W</description>
+						<index>
+							<warforged>
+								<name type="string">Warforged</name>
+								<link type="windowreference">
+									<class>reference_race</class>
+									<recordname>reference.racedata.warforged</recordname>
+								</link>
+							</warforged>
+						</index>
+					</typeletterW>
+				</groups>
+			</byletter>
+		</races>
+		<subraces>
+			<byrace>
+				<description type="string">Subraces</description>
+				<groups>
+					<raceelf>
+						<description type="string">Elf</description>
+						<index>
+							<avariel>
+								<name type="string">Avariel</name>
+								<link type="windowreference">
+									<class>reference_race</class>
+									<recordname>reference.racedata.elf</recordname>
+								</link>
+							</avariel>
+							<grugach>
+								<name type="string">Grugach</name>
+								<link type="windowreference">
+									<class>reference_race</class>
+									<recordname>reference.racedata.elf</recordname>
+								</link>
+							</grugach>
+						</index>
+					</raceelf>
+				</groups>
+			</byrace>
+		</subraces>
+		<classes>
+			<byletter>
+				<description type="string">Classes</description>
+				<groups>
+					<typeletterA>
+						<description type="string">A</description>
+						<index>
+							<artificer>
+								<name type="string">Artificer</name>
+								<link type="windowreference">
+									<class>reference_class</class>
+									<recordname>reference.classdata.artificer</recordname>
+								</link>
+							</artificer>
+						</index>
+					</typeletterA>
+				</groups>
+			</byletter>
+		</classes>
+		<feats>
+			<byletter>
+				<description type="string">Feats</description>
+				<groups>
+					<typeletterA>
+						<description type="string">A</description>
+						<index>
+							<acrobat>
+								<name type="string">Acrobat</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.acrobat</recordname>
+								</link>
+							</acrobat>
+							<alchemist>
+								<name type="string">Alchemist</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.alchemist</recordname>
+								</link>
+							</alchemist>
+							<animalhandler>
+								<name type="string">Animal Handler</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.animalhandler</recordname>
+								</link>
+							</animalhandler>
+							<arcanist>
+								<name type="string">Arcanist</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.arcanist</recordname>
+								</link>
+							</arcanist>
+						</index>
+					</typeletterA>
+					<typeletterB>
+						<description type="string">B</description>
+						<index>
+							<blademastery>
+								<name type="string">Blade Mastery</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.blademastery</recordname>
+								</link>
+							</blademastery>
+							<brawny>
+								<name type="string">Brawny</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.brawny</recordname>
+								</link>
+							</brawny>
+							<burglar>
+								<name type="string">Burglar</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.burglar</recordname>
+								</link>
+							</burglar>
+						</index>
+					</typeletterB>
+					<typeletterF>
+						<description type="string">F</description>
+						<index>
+							<fellhanded>
+								<name type="string">Fell Handed</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.fellhanded</recordname>
+								</link>
+							</fellhanded>
+							<flailmastery>
+								<name type="string">Flail Mastery</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.flailmastery</recordname>
+								</link>
+							</flailmastery>
+						</index>
+					</typeletterF>
+					<typeletterG>
+						<description type="string">G</description>
+						<index>
+							<gourmand>
+								<name type="string">Gourmand</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.gourmand</recordname>
+								</link>
+							</gourmand>
+						</index>
+					</typeletterG>
+					<typeletterM>
+						<description type="string">M</description>
+						<index>
+							<masterofdisguise>
+								<name type="string">Master of Disguise</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.masterofdisguise</recordname>
+								</link>
+							</masterofdisguise>
+							<medic>
+								<name type="string">Medic</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.medic</recordname>
+								</link>
+							</medic>
+						</index>
+					</typeletterM>
+					<typeletterS>
+						<description type="string">S</description>
+						<index>
+							<spearmastery>
+								<name type="string">Spear Mastery</name>
+								<link type="windowreference">
+									<class>reference_feat</class>
+									<recordname>reference.featdata.spearmastery</recordname>
+								</link>
+							</spearmastery>
+						</index>
+					</typeletterS>
+				</groups>
+			</byletter>
+		</feats>
+		<spells>
+			<!-- This section is an index for different ways to filter spell lists. Only spells by class are 
+				 presented here, but you can add other sorted and filtered lists as desired. -->
+			<spelllists>
+				<name type="string">Spells</name>
+				<index>
+					<r1byclass>
+						<name type="string">Spells by Class</name>
+						<listlink type="windowreference">
+							<class>referenceindex</class>
+							<recordname>lists.spells.byclass</recordname>
+						</listlink>
+					</r1byclass>
+					<!-- You can add more entries to the spell list by copy/pasting the following code 
+						 block outside of this comment section:
+					<xxElementName>
+						<name type="string">xxListName</name>
+						<listlink type="windowreference">
+							<class>referenceindex</class>
+							<recordname>lists.spells.xxListElement</recordname>
+						</listlink>
+					</xxElementName>
+					-->
+				</index>
+			</spelllists>
+			<byclass>
+				<name type="string">Spells by Class</name>
+				<!-- This section is list of classes that gain spells. The spell lists for class 
+					 have the spell entries compacted to minimize line count. -->
+				<index>
+					<arcanetrickster>
+						<name type="string">Arcane Trickster</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.arcanetrickster</recordname>
+						</listlink>
+					</arcanetrickster>
+					<bard>
+						<name type="string">Bard</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.bard</recordname>
+						</listlink>
+					</bard>
+					<cleric>
+						<name type="string">Cleric</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.cleric</recordname>
+						</listlink>
+					</cleric>
+					<druid>
+						<name type="string">Druid</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.druid</recordname>
+						</listlink>
+					</druid>
+					<eldritchknight>
+						<name type="string">Eldritch Knight</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.eldritchknight</recordname>
+						</listlink>
+					</eldritchknight>
+					<paladin>
+						<name type="string">Paladin</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.paladin</recordname>
+						</listlink>
+					</paladin>
+					<ranger>
+						<name type="string">Ranger</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.ranger</recordname>
+						</listlink>
+					</ranger>
+					<sorcerer>
+						<name type="string">Sorcerer</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.sorcerer</recordname>
+						</listlink>
+					</sorcerer>
+					<warlock>
+						<name type="string">Warlock</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.warlock</recordname>
+						</listlink>
+					</warlock>
+					<wizard>
+						<name type="string">Wizard</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.byclass.wizard</recordname>
+						</listlink>
+					</wizard>
+				</index>
+				<arcanetrickster>
+					<description type="string">Arcane Trickster Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+					</groups>
+				</arcanetrickster>
+				<bard>
+					<description type="string">Bard Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</bard>
+				<cleric>
+					<description type="string">Cleric Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</cleric>
+				<druid>
+					<description type="string">Druid Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</druid>
+				<eldritchknight>
+					<description type="string">Eldritch Knight Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+					</groups>
+				</eldritchknight>
+				<paladin>
+					<description type="string">Paladin Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+					</groups>
+				</paladin>
+				<ranger>
+					<description type="string">Ranger Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+					</groups>
+				</ranger>
+				<sorcerer>
+					<description type="string">Sorcerer Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</sorcerer>
+				<warlock>
+					<description type="string">Warlock Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</warlock>
+				<wizard>
+					<description type="string">Wizard Spells</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</wizard>
+			</byclass>
+			<!-- You can add more sorted lists by copy/pasting the following code: -->
+			<xxElementName>
+				<name type="string">xxListName</name>
+				<index>
+					<!-- #Duplicate this section of code for each entry in the list -->
+					<xxElementName>
+						<name type="string">xxListEntryName</name>
+						<listlink type="windowreference">
+							<class>reference_colindex</class>
+							<recordname>lists.spells.xxListSection.xxListEntry</recordname>
+						</listlink>
+					</xxElementName>
+				</index>
+				<xxListEntry>
+					<description type="string">xxListEntryName</description>
+					<groups>
+						<level0><description type="string">Cantrips</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level0>
+						<level1><description type="string">Level 1 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level1>
+						<level2><description type="string">Level 2 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level2>
+						<level3><description type="string">Level 3 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level3>
+						<level4><description type="string">Level 4 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level4>
+						<level5><description type="string">Level 5 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level5>
+						<level6><description type="string">Level 6 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level6>
+						<level7><description type="string">Level 7 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level7>
+						<level8><description type="string">Level 8 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level8>
+						<level9><description type="string">Level 9 Spells</description><index>
+							<!-- #Duplicate this section of code for each spell in the list -->
+							<xxSpell><link type="windowreference"><class>reference_spell</class>
+							<recordname>reference.spelldata.xxSpell</recordname></link></xxSpell>
+						</index></level9>
+					</groups>
+				</xxListEntry>
+			</xxElementName>
+		</spells>
+		<referencemanual>
+			<!-- This section contains the heading tree that appears on the left side of the reference 
+				 manual window. Subchapters are required. -->
+			<chapters>
+				<!-- #Duplicate this section of code for each chapter in the manual -->
+				<xxChapter>
+					<name type="string">xxChapterName</name>
+					<subchapters>
+						<!-- #Duplicate this section of code for each subchapter in the chapter -->
+						<xxSubchapter>
+							<name type="string">xxSubchapterName</name>
+							<refpages>
+								<!-- #Duplicate this section of code for each page in the subchapter -->
+								<xxPage>
+									<listlink type="windowreference">
+										<class>reference_manualtextwide</class>
+										<recordname>reference.referencemanual.xxPage</recordname>
+									</listlink>
+									<name type="string">xxPageName</name>
+									<!-- #Place a list of keywords here to allow the page to be included 
+										 when users activate the manual filter -->
+									<keywords type="string">xxKeyword xxKeyword</keywords>
+								</xxPage>
+							</refpages>
+						</xxSubchapter>
+					</subchapters>
+				</xxChapter>
+			</chapters>
+		</referencemanual>
+	</lists>
+	<tables>
+		<!--
+			Each table consists of a number of rows, each with a range of numbers associated with it, and a 
+			number of columns, creating a grid of cells. Each cell can contain either text, a link to something
+			in Fantasy Grounds (with text if desired), or a token that represents a die roll or another table
+			to roll on (designated by square brackets '[' and ']').
+		-->
+		<!-- #Duplicate this section of code for each table you wish to add -->
+		<phoenixsoulquirks>
+			<name type="string">Phoenix Soul Quirks</name>
+			<locked type="number">1</locked>
+			<hiderollresults type="number">1</hiderollresults>
+			<description type="string"></description>
+			<dice type="dice">d6</dice>
+			<mod type="number">0</mod>
+			<!-- #Change to the number of columns in the table -->
+			<resultscols type="number">1</resultscols>
+			<table_positionoffset type="number">0</table_positionoffset>
+			<!-- #Change each labelcol# to the name of the columns -->
+			<labelcol1 type="string">Quirk</labelcol1>
+			<tablerows>
+				<!-- Each row in the table will be contained in a section with the element name "id-#". The 
+				entries will be displayed in the order of the die number(s) that are rolled for entry. The
+				id number is merely to make it easier on FG to cycle through entries.-->
+				<id-00001>
+					<!-- #Set the number range for this row; if only one number should result in this entry, 
+					use the same number for both values-->
+					<fromrange type="number">1</fromrange>
+					<torange type="number">1</torange>
+					<results>
+						<!-- Each row contains a number of results equal to the columns. For less than three
+							 columns, remove the elements with the higher id numbers. -->
+						<id-00001>
+							<!-- Example of table cell with text only -->
+							<result type="string">xxEntry1</result>
+						</id-00001>
+						<id-00002>
+							<!-- Example of table cell with link -->
+							<result type="string">xxEntry2</result>
+							<resultlink type="windowreference">
+								<class>xxWindowClass</class>
+								<recordname>xxSourcePath</recordname>
+							</resultlink>
+						</id-00002>
+					</results>
+				</id-00001>
+				<id-00002>
+					<fromrange type="number">xxNum</fromrange>
+					<torange type="number">xxNum</torange>
+					<results>
+						<id-00001>
+							<result type="string">xxEntry1</result>
+						</id-00001>
+						<id-00002>
+							<result type="string">xxEntry2</result>
+						</id-00002>
+						<id-00003>
+							<result type="string">xxEntry3</result>
+						</id-00003>
+					</results>
+				</id-00002>
+				<!-- You can add more rows to the table by copy/pasting the following code block outside of 
+				this comment section:
+				<id-xxIdNum>
+					<fromrange type="number">xxNum</fromrange>
+					<torange type="number">xxNum</torange>
+					<results>
+						<id-00001>
+							<result type="string">xxEntry1</result>
+						</id-00001>
+						<id-00002>
+							<result type="string">xxEntry2</result>
+						</id-00002>
+						<id-00003>
+							<result type="string">xxEntry3</result>
+						</id-00003>
+					</results>
+				</id-xxIdNum>
+				-->
+			</tablerows>
+			<notes type="formattedtext"></notes>
+		</phoenixsoulquirks>
+	</tables>
+	<library>
+		<DD5E-UA>
+			<name type="string">DD5E Core: Unearthed Arcana</name>
+			<categoryname type="string">Core Rules</categoryname>
+			<entries>
+				<r01referencemanual>
+					<librarylink type="windowreference">
+						<class>reference_manual</class>
+						<recordname>lists.referencemanual</recordname>
+					</librarylink>  
+					<name type="string">Reference Manual</name>
+				</r01referencemanual>
+				<r02races>
+					<librarylink type="windowreference">
+						<class>reference_colindex</class>
+						<recordname>lists.races.byletter</recordname>
+					</librarylink>
+					<name type="string">Races</name>
+				</r02races>
+				<r03subraces>
+					<librarylink type="windowreference">
+						<class>reference_colindex</class>
+						<recordname>lists.subraces.byrace</recordname>
+					</librarylink>
+					<name type="string">Subraces</name>
+				</r03subraces>
+				<r04classes>
+					<librarylink type="windowreference">
+						<class>reference_colindex</class>
+						<recordname>lists.classes.byletter</recordname>
+					</librarylink>
+					<name type="string">Classes</name>
+				</r04classes>
+				<r06feats>
+					<librarylink type="windowreference">
+						<class>reference_colindex</class>
+						<recordname>lists.feats.byletter</recordname>
+					</librarylink>
+					<name type="string">Feats</name>
+				</r06feats>
+				<r08spells>
+					<librarylink type="windowreference">
+						<class>referenceindex</class>
+						<recordname>lists.spells.spelllists</recordname>
+					</librarylink>
+					<name type="string">Spells</name>
+				</r08spells>
+			</entries>
+		</DD5E-UA>
+	</library>
+</root>
+
+
+
+
+
+
+
+
+
+
+
+
+

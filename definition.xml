@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="1.0">
+	<name>DD5E Core: Unearthed Arcana</name>
+	<category>Core Rules</category>
+	<author>Wizards of the Coast LLC</author>
+	<ruleset>5E</ruleset>
+	
+	<!-- #Lastly, change the file 'thumbnail.png' to a 100x100 px. image (if you
+		 will be distribution the module, make sure you own or have a license for the image)-->
+
+</root>
